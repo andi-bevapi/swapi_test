@@ -10,11 +10,19 @@ This are some instructions to follow for making posible to succeed this api call
 5 after you have exec the route of the importStarship or importVehicles or both, insert manualy in the table inventories some data. *Example
 
 vehicle_id | starship_id | quantity
+
     1      | null        | 10
-    2      | null 	 | 5
-    3      | null 	 | 6
-    1      | null 	 | 7
-   null    | 10 	 | 10
+    
+    2      | null 	     | 5
+    
+    3      | null 	     | 6
+    
+    1      | null 	     | 7
+    
+   null    | 10 	     | 10
+   
    null    | 5 	         | 5
+   
    null    | 8 	         | 6
-   null    | 6  	 | 7
+   
+   null    | 6  	     | 7
